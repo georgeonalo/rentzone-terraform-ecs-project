@@ -49,3 +49,9 @@
     description = "private data subnet az2 cidr block"
     type        = string
  }
+
+ # Security-group variables
+   variable "ssh_location" {
+    description = "ip address that can ss into the server"
+    type        = string
+ }
