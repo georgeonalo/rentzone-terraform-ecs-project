@@ -24,3 +24,9 @@ multi_az_deployment="false"
  # acm variables
  domain_name="georgenal.xyz"
  altanative_names="*.georgenal.xyz"
+
+ # s3 variables
+ env_file_bucket_name="george86-ecs-env-file-bucket"
+ env_file_name="rentzone.env"
+
+ 
