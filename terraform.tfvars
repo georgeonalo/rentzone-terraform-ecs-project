@@ -29,4 +29,11 @@ multi_az_deployment="false"
  env_file_bucket_name="george86-ecs-env-file-bucket"
  env_file_name="rentzone.env"
 
+ # ecs variables
+ architecture="X86_64"
+ container_image="910883278292.dkr.ecr.us-east-1.amazonaws.com/rentzone:latest"
+ 
+
+
+
  
