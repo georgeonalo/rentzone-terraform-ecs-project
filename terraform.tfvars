@@ -32,8 +32,10 @@ multi_az_deployment="false"
  # ecs variables
  architecture="X86_64"
  container_image="910883278292.dkr.ecr.us-east-1.amazonaws.com/rentzone:latest"
- 
 
+
+# route 53 variables
+record_name="www"
 
 
  
